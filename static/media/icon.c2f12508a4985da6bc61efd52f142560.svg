@@ -1,0 +1,8 @@
+<svg viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg" class="jsx-700ca2171c372539">
+  <path d="M45 0H0V45H45V0Z" class="jsx-700ca2171c372539 square"></path>
+  <path d="M45 52.5H0V97.5H45V52.5Z" class="jsx-700ca2171c372539 square"></path>
+  <path d="M45 105H0V150H45V105Z" class="jsx-700ca2171c372539 square"></path>
+  <path d="M97.5 0H52.5V45H97.5V0Z" class="jsx-700ca2171c372539 square"></path>
+  <path d="M150 0H105V45H150V0Z" class="jsx-700ca2171c372539 square"></path>
+  <path d="M75 98C87.7025 98 98 87.7025 98 75C98 62.2975 87.7025 52 75 52C62.2975 52 52 62.2975 52 75C52 87.7025 62.2975 98 75 98Z" class="jsx-700ca2171c372539 circle"></path>
+</svg>
